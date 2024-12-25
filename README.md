@@ -3,14 +3,18 @@
 
 *2 minute read*
 ## Quick Q&A
-**How do you document your work?**
-I've been using GitHub repositories and markdown to document my work, with the [Turtlebots project](https://github.com/SaPHaRI-Lab/Turtlebot2) as an example.
+#### How do you document your work?
+I've been using GitHub repositories and markdown to document my work. Example: [Turtlebots project](https://github.com/SaPHaRI-Lab/Turtlebot2)
 
-**What is Markdown?**
+#### What is Markdown?
 It's a markup language used for quick and simple documentation. This README uses markdown. Any file with the extension `.md` is a markdown file.
 
-**How do I learn to write Markdown?**
+#### How do I learn to write Markdown?
 It's super simple! The site [learnxinyminutes.com](https://learnxinyminutes.com/markdown/) is an incredible resource many use to brush up on language syntax. Personally, I learned Markdown from existing READMEs across GitHub since it's really easy. I'm not smart, either.
+
+#### Do you need Obsidian to write in markdown!
+No. I use Obsidian since it nicely writes and renders markdown.
+
 ## Getting Started
 Install [Obsidian](https://obsidian.md/download) to edit markdown files. Using [GitHub Desktop](https://desktop.github.com/download/) (recommended) or Git CLI, clone the repo of your choice that'll include your markdown files. In this case, I'll be using [this repo](https://github.com/SaPHaRI-Lab/Documentation) as an example.
 
