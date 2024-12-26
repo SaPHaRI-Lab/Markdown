@@ -4,7 +4,8 @@
 *2 minute read*
 ## Quick Q&A
 #### How do you document your work?
-I've been using GitHub repositories and markdown to document my work. Example: [Turtlebots project](https://github.com/SaPHaRI-Lab/Turtlebot2)
+I've been using GitHub repositories and markdown to document my work.
+Here's an example: [Turtlebots project](https://github.com/SaPHaRI-Lab/Turtlebot2)
 
 #### What is Markdown?
 It's a markup language used for quick and simple documentation. This README uses markdown. Any file with the extension `.md` is a markdown file.
