@@ -1,11 +1,11 @@
-# Documentation
-*Technical documentation is essential for an effective project, especially those that involve more than one person—i.e. most projects.*
+# Markdown
+Getting started with documenting in Markdown & GitHub
 
 *2 minute read*
 ## Quick Q&A
 #### How do you document your work?
-I've been using GitHub repositories and markdown to document my work.
-Here's an example: [Turtlebots project](https://github.com/SaPHaRI-Lab/Turtlebot2)
+I've been using GitHub repositories and markdown to document my work. It's really easy.
+Example: [Turtlebots project](https://github.com/SaPHaRI-Lab/Turtlebot2)
 
 #### What is Markdown?
 It's a markup language used for quick and simple documentation. This README uses markdown. Any file with the extension `.md` is a markdown file.
